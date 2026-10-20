@@ -1,0 +1,4225 @@
+[
+  {
+    "id": "victual",
+    "word": "victual",
+    "respelling": "VIT-el",
+    "ipa": "/ˈvɪt.əl/",
+    "tts": "vittle",
+    "tags": [
+      "loanword"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "VIK-too-al",
+        "tts": "vik too al"
+      },
+      {
+        "text": "VIK-choo-al",
+        "tts": "vik choo al"
+      },
+      {
+        "text": "VEET-wul",
+        "tts": "veet wul"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "colonel",
+    "word": "colonel",
+    "respelling": "KUR-nel",
+    "ipa": "/ˈkɝː.nəl/",
+    "tts": "kernel",
+    "tags": [
+      "loanword"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "KOL-uh-nel",
+        "tts": "kol uh nel"
+      },
+      {
+        "text": "KOH-lo-nel",
+        "tts": "koh lo nel"
+      },
+      {
+        "text": "KOL-nel",
+        "tts": "kol nel"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "worcestershire",
+    "word": "worcestershire",
+    "respelling": "WUSS-ter-sher",
+    "ipa": "/ˈwʊs.tər.ʃɚ/",
+    "tts": "wuster sher",
+    "tags": [
+      "place"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "WOR-ces-ter-shire",
+        "tts": "wor ses ter shy er"
+      },
+      {
+        "text": "WOR-chess-ter-sheer",
+        "tts": "wor chess ter sheer"
+      },
+      {
+        "text": "WER-kes-ter-shy-er",
+        "tts": "wer kes ter shy er"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "boatswain",
+    "word": "boatswain",
+    "respelling": "BOH-sun",
+    "ipa": "/ˈboʊ.sən/",
+    "tts": "bo sun",
+    "tags": [
+      "nautical"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "BOAT-swayn",
+        "tts": "boat swayn"
+      },
+      {
+        "text": "BOAT-swan",
+        "tts": "boat swan"
+      },
+      {
+        "text": "BOH-swain",
+        "tts": "boh swain"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "quinoa",
+    "word": "quinoa",
+    "respelling": "KEEN-wah",
+    "ipa": "/ˈkiːn.wɑː/",
+    "tts": "keen wah",
+    "tags": [
+      "loanword"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "kwin-OH-uh",
+        "tts": "kwin oh uh"
+      },
+      {
+        "text": "KWIN-oh-uh",
+        "tts": "kwin oh uh"
+      },
+      {
+        "text": "kin-OH-ah",
+        "tts": "kin oh ah"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "siobhan",
+    "word": "siobhan",
+    "respelling": "shih-VAWN",
+    "ipa": "/ʃɪˈvɔːn/",
+    "tts": "shiv awn",
+    "tags": [
+      "name"
+    ],
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "SEE-oh-ban",
+        "tts": "see oh ban"
+      },
+      {
+        "text": "SIGH-oh-bann",
+        "tts": "sigh oh ban"
+      },
+      {
+        "text": "shee-OH-ban",
+        "tts": "shee oh ban"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "cholmondeley",
+    "word": "cholmondeley",
+    "respelling": "CHUM-lee",
+    "ipa": "/ˈtʃʌm.li/",
+    "tts": "chum lee",
+    "tags": [
+      "name",
+      "place"
+    ],
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "chol-MON-dee-lee",
+        "tts": "chol mon dee lee"
+      },
+      {
+        "text": "KOL-mon-dee-lee",
+        "tts": "kol mon dee lee"
+      },
+      {
+        "text": "CHOLM-ond-lee",
+        "tts": "cholm ond lee"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "gunwale",
+    "word": "gunwale",
+    "respelling": "GUN-el",
+    "ipa": "/ˈɡʌn.əl/",
+    "tts": "gunnel",
+    "tags": [
+      "nautical"
+    ],
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "GUN-wail",
+        "tts": "gun wail"
+      },
+      {
+        "text": "GUN-wale",
+        "tts": "gun wale"
+      },
+      {
+        "text": "GUHN-wah-lee",
+        "tts": "guhn wah lee"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "island",
+    "word": "island",
+    "respelling": "EYE-lund",
+    "ipa": "/ˈaɪ.lənd/",
+    "tts": "eye land",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "impostor",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "IZ-land",
+        "tts": "iz land"
+      },
+      {
+        "text": "ISS-land",
+        "tts": "iss land"
+      },
+      {
+        "text": "EE-sland",
+        "tts": "ee sland"
+      }
+    ],
+    "silentIndex": 1,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "debt",
+    "word": "debt",
+    "respelling": "DET",
+    "ipa": "/dɛt/",
+    "tts": "debt",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "impostor",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "DEB-it",
+        "tts": "deb it"
+      },
+      {
+        "text": "DEBT-uh",
+        "tts": "debt uh"
+      },
+      {
+        "text": "DEH-bet",
+        "tts": "deh bet"
+      }
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "doubt",
+    "word": "doubt",
+    "respelling": "DOWT",
+    "ipa": "/daʊt/",
+    "tts": "doubt",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "impostor",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "DOWB-t",
+        "tts": "dowb t"
+      },
+      {
+        "text": "DUB-it",
+        "tts": "dub it"
+      },
+      {
+        "text": "DOW-bit",
+        "tts": "dow bit"
+      }
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "subtle",
+    "word": "subtle",
+    "respelling": "SUT-l",
+    "ipa": "/ˈsʌt.əl/",
+    "tts": "suttle",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "impostor",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "SUB-tul",
+        "tts": "sub tul"
+      },
+      {
+        "text": "SUB-tuhl",
+        "tts": "sub tuhl"
+      },
+      {
+        "text": "SOOB-tl",
+        "tts": "soob tl"
+      }
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "receipt",
+    "word": "receipt",
+    "respelling": "rih-SEET",
+    "ipa": "/rɪˈsiːt/",
+    "tts": "re seat",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "impostor",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "reh-KAYPT",
+        "tts": "reh kaypt"
+      },
+      {
+        "text": "ree-SEEPT",
+        "tts": "ree seept"
+      },
+      {
+        "text": "reh-SEPT",
+        "tts": "reh sept"
+      }
+    ],
+    "silentIndex": 5,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "salmon",
+    "word": "salmon",
+    "respelling": "SAM-un",
+    "ipa": "/ˈsæm.ən/",
+    "tts": "sam un",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "impostor",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "SAL-mon",
+        "tts": "sal mon"
+      },
+      {
+        "text": "SAHL-mun",
+        "tts": "sahl mun"
+      },
+      {
+        "text": "SAWL-mon",
+        "tts": "sawl mon"
+      }
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "indict",
+    "word": "indict",
+    "respelling": "in-DITE",
+    "ipa": "/ɪnˈdaɪt/",
+    "tts": "in dite",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "impostor",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "in-DIKT",
+        "tts": "in dikt"
+      },
+      {
+        "text": "IN-dikt",
+        "tts": "in dikt"
+      },
+      {
+        "text": "in-DEEKT",
+        "tts": "in deekt"
+      }
+    ],
+    "silentIndex": 4,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "mnemonic",
+    "word": "mnemonic",
+    "respelling": "nih-MON-ik",
+    "ipa": "/nɪˈmɑː.nɪk/",
+    "tts": "nuh mon ick",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "impostor",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "muh-NEM-on-ik",
+        "tts": "muh nem on ik"
+      },
+      {
+        "text": "MEEN-mon-ik",
+        "tts": "meen mon ik"
+      },
+      {
+        "text": "em-NEM-on-ik",
+        "tts": "em nem on ik"
+      }
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "vegetable",
+    "word": "vegetable",
+    "respelling": "VEJ-tuh-bul",
+    "ipa": "/ˈvɛdʒ.tə.bəl/",
+    "tts": "vej tuh bul",
+    "tags": [
+      "dropped-syllable"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "chopper",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "vej-eh-TAY-bul",
+        "tts": "vej eh tay bul"
+      },
+      {
+        "text": "VEG-e-tuh-bul",
+        "tts": "veg eh tuh bul"
+      },
+      {
+        "text": "veh-GET-uh-bul",
+        "tts": "veh get uh bul"
+      }
+    ],
+    "chunks": {
+      "parts": [
+        "veg",
+        "e",
+        "ta",
+        "ble"
+      ],
+      "droppedIndex": 1,
+      "spoken": "VEJ-tuh-bul"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "business",
+    "word": "business",
+    "respelling": "BIZ-nes",
+    "ipa": "/ˈbɪz.nəs/",
+    "tts": "biz ness",
+    "tags": [
+      "dropped-syllable"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "chopper",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "BIZ-ih-nes",
+        "tts": "biz ih nes"
+      },
+      {
+        "text": "BOO-zee-ness",
+        "tts": "boo zee ness"
+      },
+      {
+        "text": "BYOO-zih-nes",
+        "tts": "byoo zih nes"
+      }
+    ],
+    "chunks": {
+      "parts": [
+        "bus",
+        "i",
+        "ness"
+      ],
+      "droppedIndex": 1,
+      "spoken": "BIZ-nes"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "family",
+    "word": "family",
+    "respelling": "FAM-lee",
+    "ipa": "/ˈfæm.li/",
+    "tts": "fam lee",
+    "tags": [
+      "dropped-syllable"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "chopper",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "FAM-ih-lee",
+        "tts": "fam ih lee"
+      },
+      {
+        "text": "fuh-MEEL-ee",
+        "tts": "fuh meel ee"
+      },
+      {
+        "text": "FAM-eye-lee",
+        "tts": "fam eye lee"
+      }
+    ],
+    "chunks": {
+      "parts": [
+        "fam",
+        "i",
+        "ly"
+      ],
+      "droppedIndex": 1,
+      "spoken": "FAM-lee"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "memory",
+    "word": "memory",
+    "respelling": "MEM-ree",
+    "ipa": "/ˈmɛm.ri/",
+    "tts": "mem ree",
+    "tags": [
+      "dropped-syllable"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "chopper",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "MEM-or-ee",
+        "tts": "mem or ee"
+      },
+      {
+        "text": "meh-MOR-ee",
+        "tts": "meh mor ee"
+      },
+      {
+        "text": "MEE-mor-ee",
+        "tts": "mee mor ee"
+      }
+    ],
+    "chunks": {
+      "parts": [
+        "mem",
+        "o",
+        "ry"
+      ],
+      "droppedIndex": 1,
+      "spoken": "MEM-ree"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "chocolate",
+    "word": "chocolate",
+    "respelling": "CHOK-lit",
+    "ipa": "/ˈtʃɑːk.lɪt/",
+    "tts": "chok lit",
+    "tags": [
+      "dropped-syllable",
+      "loanword"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "chopper",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "CHOK-oh-layt",
+        "tts": "chok oh layt"
+      },
+      {
+        "text": "choh-KOL-ut",
+        "tts": "choh kol ut"
+      },
+      {
+        "text": "CHOK-o-luht",
+        "tts": "chok oh luht"
+      }
+    ],
+    "chunks": {
+      "parts": [
+        "choc",
+        "o",
+        "late"
+      ],
+      "droppedIndex": 1,
+      "spoken": "CHOK-lit"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "knight",
+    "word": "knight",
+    "respelling": "NITE",
+    "ipa": "/naɪt/",
+    "tts": "night",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "sword",
+    "word": "sword",
+    "respelling": "SORD",
+    "ipa": "/sɔːrd/",
+    "tts": "sword",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "silentIndex": 1,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "rendezvous",
+    "word": "rendezvous",
+    "respelling": "RAHN-day-voo",
+    "ipa": "/ˈrɒn.deɪ.vuː/",
+    "tts": "rahn day voo",
+    "tags": [
+      "loanword"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "REN-dez-vuss",
+        "tts": "ren dez vuss"
+      },
+      {
+        "text": "REN-duh-vooz",
+        "tts": "ren duh vooz"
+      },
+      {
+        "text": "RAHN-duh-vuss",
+        "tts": "rahn duh vuss"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "yacht",
+    "word": "yacht",
+    "respelling": "YOT",
+    "ipa": "/jɒt/",
+    "tts": "yaht",
+    "tags": [
+      "nautical",
+      "loanword"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "YAT-chet",
+        "tts": "yat chet"
+      },
+      {
+        "text": "YAHK-tuh",
+        "tts": "yahk tuh"
+      },
+      {
+        "text": "YAW-tchet",
+        "tts": "yaw tchet"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "camera",
+    "word": "camera",
+    "respelling": "KAM-ruh",
+    "ipa": "/ˈkæm.rə/",
+    "tts": "kam ruh",
+    "tags": [
+      "dropped-syllable"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "chunks": {
+      "parts": [
+        "cam",
+        "er",
+        "a"
+      ],
+      "droppedIndex": 1,
+      "spoken": "KAM-ruh"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "restaurant",
+    "word": "restaurant",
+    "respelling": "RES-trahnt",
+    "ipa": "/ˈrɛs.trɑːnt/",
+    "tts": "res trahnt",
+    "tags": [
+      "dropped-syllable",
+      "loanword"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "chopper"
+    ],
+    "chunks": {
+      "parts": [
+        "res",
+        "tau",
+        "rant"
+      ],
+      "droppedIndex": 1,
+      "spoken": "RES-trahnt"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "history",
+    "word": "history",
+    "respelling": "HISS-tree",
+    "ipa": "/ˈhɪs.təri/",
+    "tts": "hiss tree",
+    "tags": [
+      "dropped-syllable"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "chunks": {
+      "parts": [
+        "his",
+        "to",
+        "ry"
+      ],
+      "droppedIndex": 1,
+      "spoken": "HISS-tree"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "autumn",
+    "word": "autumn",
+    "respelling": "AW-tum",
+    "ipa": "/ˈɔː.təm/",
+    "tts": "aw tum",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "silentIndex": 5,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "gnat",
+    "word": "gnat",
+    "respelling": "NAT",
+    "ipa": "/næt/",
+    "tts": "nat",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "psalm",
+    "word": "psalm",
+    "respelling": "SAHM",
+    "ipa": "/sɑːm/",
+    "tts": "sahm",
+    "tags": [
+      "silent-letter"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "cologne",
+    "word": "cologne",
+    "respelling": "kuh-LOHN",
+    "ipa": "/kəˈloʊn/",
+    "tts": "cuh lone",
+    "tags": [
+      "silent-letter",
+      "place"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "silentIndex": 4,
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "diamond",
+    "word": "diamond",
+    "respelling": "DYE-mund",
+    "ipa": "/ˈdaɪ.mənd/",
+    "tts": "dye mund",
+    "tags": [
+      "dropped-syllable"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "chunks": {
+      "parts": [
+        "di",
+        "a",
+        "mond"
+      ],
+      "droppedIndex": 1,
+      "spoken": "DYE-mund"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "edinburgh",
+    "word": "edinburgh",
+    "respelling": "ED-in-bur-uh",
+    "ipa": "/ˈɛd.ɪn.bərə/",
+    "tts": "ed in bur uh",
+    "tags": [
+      "place"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "ED-in-burg",
+        "tts": "ed in burg"
+      },
+      {
+        "text": "ee-DIN-berg",
+        "tts": "ee din berg"
+      },
+      {
+        "text": "ED-in-borrow",
+        "tts": "ed in borrow"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "draught",
+    "word": "draught",
+    "respelling": "DRAFT",
+    "ipa": "/drɑːft/",
+    "tts": "draft",
+    "tags": [
+      "loanword"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "DRAW-gut",
+        "tts": "draw gut"
+      },
+      {
+        "text": "DROWT",
+        "tts": "drowt"
+      },
+      {
+        "text": "DRAWTH",
+        "tts": "drawth"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "corps",
+    "word": "corps",
+    "respelling": "KOR",
+    "ipa": "/kɔːr/",
+    "tts": "core",
+    "tags": [
+      "loanword"
+    ],
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "KORPS",
+        "tts": "korps"
+      },
+      {
+        "text": "KOR-puh",
+        "tts": "kor puh"
+      },
+      {
+        "text": "KORP-see",
+        "tts": "korp see"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "beauchamp",
+    "word": "beauchamp",
+    "respelling": "BEE-chum",
+    "ipa": "/ˈbiː.tʃəm/",
+    "tts": "bee chum",
+    "tags": [
+      "name"
+    ],
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "BO-champ",
+        "tts": "boh champ"
+      },
+      {
+        "text": "BYOO-shomp",
+        "tts": "byoo shomp"
+      },
+      {
+        "text": "BO-shon",
+        "tts": "boh shon"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "featherstonehaugh",
+    "word": "featherstonehaugh",
+    "respelling": "FAN-shaw",
+    "ipa": "/ˈfæn.ʃɔː/",
+    "tts": "fan shaw",
+    "tags": [
+      "name"
+    ],
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "FETH-er-stone-haw",
+        "tts": "feth er stone haw"
+      },
+      {
+        "text": "FEE-ther-ston-huf",
+        "tts": "fee ther ston huf"
+      },
+      {
+        "text": "feth-ER-stun-hog",
+        "tts": "feth er stun hog"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "pharaoh",
+    "word": "pharaoh",
+    "respelling": "FAIR-oh",
+    "ipa": "/ˈfɛə.roʊ/",
+    "tts": "fair oh",
+    "tags": [
+      "loanword"
+    ],
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "wrong": [
+      {
+        "text": "fahr-AY-oh",
+        "tts": "fahr ay oh"
+      },
+      {
+        "text": "fuh-ROH-uh",
+        "tts": "fuh roh uh"
+      },
+      {
+        "text": "fah-RAH-oh",
+        "tts": "fah rah oh"
+      }
+    ],
+    "hint": "Say it aloud, slowly. Which part do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "leicester",
+    "word": "Leicester",
+    "respelling": "LES-ter",
+    "tts": "les ter",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "LY-ses-ter",
+        "tts": "ly ses ter"
+      },
+      {
+        "text": "LAY-ches-ter",
+        "tts": "lay ches ter"
+      },
+      {
+        "text": "LEE-ses-ter",
+        "tts": "lee ses ter"
+      }
+    ]
+  },
+  {
+    "id": "gloucester",
+    "word": "Gloucester",
+    "respelling": "GLOS-ter",
+    "tts": "glos ter",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "GLOW-ses-ter",
+        "tts": "glow ses ter"
+      },
+      {
+        "text": "GLOO-ches-ter",
+        "tts": "gloo ches ter"
+      },
+      {
+        "text": "GLOW-chess-ter",
+        "tts": "glow chess ter"
+      }
+    ]
+  },
+  {
+    "id": "worcester",
+    "word": "Worcester",
+    "respelling": "WUSS-ter",
+    "tts": "wuss ter",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "WOR-ses-ter",
+        "tts": "wor ses ter"
+      },
+      {
+        "text": "WOR-chess-ter",
+        "tts": "wor chess ter"
+      },
+      {
+        "text": "WER-kes-ter",
+        "tts": "wer kes ter"
+      }
+    ]
+  },
+  {
+    "id": "thames",
+    "word": "Thames",
+    "respelling": "TEMZ",
+    "tts": "temz",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "THAYMZ",
+        "tts": "thaymz"
+      },
+      {
+        "text": "THAMZ",
+        "tts": "thamz"
+      },
+      {
+        "text": "TAYMZ",
+        "tts": "taymz"
+      }
+    ]
+  },
+  {
+    "id": "southwark",
+    "word": "Southwark",
+    "respelling": "SUTH-urk",
+    "tts": "suth urk",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "SOUTH-wark",
+        "tts": "south wark"
+      },
+      {
+        "text": "SOUTH-work",
+        "tts": "south work"
+      },
+      {
+        "text": "SOWTH-wurk",
+        "tts": "sowth wurk"
+      }
+    ]
+  },
+  {
+    "id": "woolwich",
+    "word": "Woolwich",
+    "respelling": "WOOL-ich",
+    "tts": "wool ich",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "WOOL-wich",
+        "tts": "wool wich"
+      },
+      {
+        "text": "WOOL-wych",
+        "tts": "wool wych"
+      },
+      {
+        "text": "WUL-witch",
+        "tts": "wul witch"
+      }
+    ]
+  },
+  {
+    "id": "mousehole",
+    "word": "Mousehole",
+    "respelling": "MOW-zul",
+    "tts": "mow zul",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "MOUSE-hole",
+        "tts": "mouse hole"
+      },
+      {
+        "text": "MOWS-hohl",
+        "tts": "mows hohl"
+      },
+      {
+        "text": "MOO-sole",
+        "tts": "moo sole"
+      }
+    ]
+  },
+  {
+    "id": "bicester",
+    "word": "Bicester",
+    "respelling": "BIS-ter",
+    "tts": "bis ter",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "BY-ses-ter",
+        "tts": "by ses ter"
+      },
+      {
+        "text": "BEE-ses-ter",
+        "tts": "bee ses ter"
+      },
+      {
+        "text": "BY-ches-ter",
+        "tts": "by ches ter"
+      }
+    ]
+  },
+  {
+    "id": "magdalen",
+    "word": "Magdalen",
+    "respelling": "MAWD-lin",
+    "tts": "mawd lin",
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "MAG-duh-len",
+        "tts": "mag duh len"
+      },
+      {
+        "text": "MAG-duh-lin",
+        "tts": "mag duh lin"
+      },
+      {
+        "text": "MAG-duh-layn",
+        "tts": "mag duh layn"
+      }
+    ]
+  },
+  {
+    "id": "cirencester",
+    "word": "Cirencester",
+    "respelling": "SIS-ih-ter",
+    "tts": "sis ih ter",
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "SY-ren-ses-ter",
+        "tts": "sy ren ses ter"
+      },
+      {
+        "text": "SIR-en-ses-ter",
+        "tts": "sir en ses ter"
+      },
+      {
+        "text": "KY-ren-ches-ter",
+        "tts": "ky ren ches ter"
+      }
+    ]
+  },
+  {
+    "id": "towcester",
+    "word": "Towcester",
+    "respelling": "TOH-ster",
+    "tts": "toh ster",
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "TOW-ses-ter",
+        "tts": "tow ses ter"
+      },
+      {
+        "text": "TOW-ches-ter",
+        "tts": "tow ches ter"
+      },
+      {
+        "text": "TOH-ses-ter",
+        "tts": "toh ses ter"
+      }
+    ]
+  },
+  {
+    "id": "alnwick",
+    "word": "Alnwick",
+    "respelling": "AN-ik",
+    "tts": "an ik",
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "AL-nwick",
+        "tts": "al nwick"
+      },
+      {
+        "text": "ALN-wick",
+        "tts": "aln wick"
+      },
+      {
+        "text": "AWL-wik",
+        "tts": "awl wik"
+      }
+    ]
+  },
+  {
+    "id": "chiswick",
+    "word": "Chiswick",
+    "respelling": "CHIZ-ik",
+    "tts": "chiz ik",
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "CHIS-wick",
+        "tts": "chis wick"
+      },
+      {
+        "text": "CHIZ-wick",
+        "tts": "chiz wick"
+      },
+      {
+        "text": "CHYZ-wik",
+        "tts": "chyz wik"
+      }
+    ]
+  },
+  {
+    "id": "wymondham",
+    "word": "Wymondham",
+    "respelling": "WIN-dum",
+    "tts": "win dum",
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "WY-mon-dam",
+        "tts": "wy mon dam"
+      },
+      {
+        "text": "WY-mond-ham",
+        "tts": "wy mond ham"
+      },
+      {
+        "text": "WIM-un-dam",
+        "tts": "wim un dam"
+      }
+    ]
+  },
+  {
+    "id": "kirkcudbright",
+    "word": "Kirkcudbright",
+    "respelling": "kur-KOO-bree",
+    "tts": "kur koo bree",
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "kirk-KUD-bright",
+        "tts": "kirk kud bright"
+      },
+      {
+        "text": "KERK-kud-bright",
+        "tts": "kerk kud bright"
+      },
+      {
+        "text": "kur-KUD-brite",
+        "tts": "kur kud brite"
+      }
+    ]
+  },
+  {
+    "id": "happisburgh",
+    "word": "Happisburgh",
+    "respelling": "HAYZ-bruh",
+    "tts": "hayz bruh",
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "HAP-is-burg",
+        "tts": "hap is burg"
+      },
+      {
+        "text": "HAP-iz-berg",
+        "tts": "hap iz berg"
+      },
+      {
+        "text": "HAP-is-bur-uh",
+        "tts": "hap is bur uh"
+      }
+    ]
+  },
+  {
+    "id": "arkansas",
+    "word": "Arkansas",
+    "respelling": "AR-kun-saw",
+    "tts": "ar kun saw",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap",
+      "impostor"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "ar-KAN-zus",
+        "tts": "ar kan zus"
+      },
+      {
+        "text": "AR-kan-zas",
+        "tts": "ar kan zas"
+      },
+      {
+        "text": "ar-KAN-sus",
+        "tts": "ar kan sus"
+      }
+    ],
+    "silentIndex": 7
+  },
+  {
+    "id": "versailles",
+    "word": "Versailles",
+    "respelling": "vur-SY",
+    "tts": "vur sy",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "ver-SAYLZ",
+        "tts": "ver saylz"
+      },
+      {
+        "text": "ver-SAILS",
+        "tts": "ver sails"
+      },
+      {
+        "text": "ver-SAL-ez",
+        "tts": "ver sal ez"
+      }
+    ]
+  },
+  {
+    "id": "yosemite",
+    "word": "Yosemite",
+    "respelling": "yoh-SEM-ih-tee",
+    "tts": "yoh sem ih tee",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "YOH-suh-mite",
+        "tts": "yoh suh mite"
+      },
+      {
+        "text": "YOSS-ih-mite",
+        "tts": "yoss ih mite"
+      },
+      {
+        "text": "yoh-sem-EYE-tee",
+        "tts": "yoh sem eye tee"
+      }
+    ]
+  },
+  {
+    "id": "des-moines",
+    "word": "Des Moines",
+    "respelling": "duh-MOYN",
+    "tts": "duh moyn",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "DAY-moyn-eez",
+        "tts": "day moyn eez"
+      },
+      {
+        "text": "DEZ-moynz",
+        "tts": "dez moynz"
+      },
+      {
+        "text": "deh-MOYNZ",
+        "tts": "deh moynz"
+      }
+    ]
+  },
+  {
+    "id": "connecticut",
+    "word": "Connecticut",
+    "respelling": "kuh-NET-ih-kut",
+    "tts": "kuh net ih kut",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "kon-EK-tih-kut",
+        "tts": "kon ek tih kut"
+      },
+      {
+        "text": "KON-ek-tih-kut",
+        "tts": "kon ek tih kut"
+      },
+      {
+        "text": "kuh-NEK-tih-kut",
+        "tts": "kuh nek tih kut"
+      }
+    ]
+  },
+  {
+    "id": "mackinac",
+    "word": "Mackinac",
+    "respelling": "MAK-ih-naw",
+    "tts": "mak ih naw",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "MAK-ih-nak",
+        "tts": "mak ih nak"
+      },
+      {
+        "text": "MAK-ih-nack",
+        "tts": "mak ih nack"
+      },
+      {
+        "text": "muh-KIN-ack",
+        "tts": "muh kin ack"
+      }
+    ]
+  },
+  {
+    "id": "mojave",
+    "word": "Mojave",
+    "respelling": "moh-HAH-vee",
+    "tts": "moh hah vee",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "moh-JAYV",
+        "tts": "moh jayv"
+      },
+      {
+        "text": "MOH-jayv",
+        "tts": "moh jayv"
+      },
+      {
+        "text": "muh-JAV-ee",
+        "tts": "muh jav ee"
+      }
+    ]
+  },
+  {
+    "id": "tucson",
+    "word": "Tucson",
+    "respelling": "TOO-sahn",
+    "tts": "too sahn",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "TUK-sun",
+        "tts": "tuk sun"
+      },
+      {
+        "text": "TOO-kson",
+        "tts": "too kson"
+      },
+      {
+        "text": "TOOK-sahn",
+        "tts": "took sahn"
+      }
+    ]
+  },
+  {
+    "id": "poughkeepsie",
+    "word": "Poughkeepsie",
+    "respelling": "puh-KIP-see",
+    "tts": "puh kip see",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "POW-keep-see",
+        "tts": "pow keep see"
+      },
+      {
+        "text": "PAW-kee-psee",
+        "tts": "paw kee psee"
+      },
+      {
+        "text": "POO-kee-sy",
+        "tts": "poo kee sy"
+      }
+    ]
+  },
+  {
+    "id": "schenectady",
+    "word": "Schenectady",
+    "respelling": "skuh-NEK-tuh-dee",
+    "tts": "skuh nek tuh dee",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "SHEN-ek-tay-dee",
+        "tts": "shen ek tay dee"
+      },
+      {
+        "text": "skeh-NEK-tay-dee",
+        "tts": "skeh nek tay dee"
+      },
+      {
+        "text": "SHEN-ek-tuh-dee",
+        "tts": "shen ek tuh dee"
+      }
+    ]
+  },
+  {
+    "id": "quincy",
+    "word": "Quincy",
+    "respelling": "KWIN-zee",
+    "tts": "kwin zee",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "place"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "KWIN-see",
+        "tts": "kwin see"
+      },
+      {
+        "text": "KIN-see",
+        "tts": "kin see"
+      },
+      {
+        "text": "KWIN-kee",
+        "tts": "kwin kee"
+      }
+    ]
+  },
+  {
+    "id": "quay",
+    "word": "Quay",
+    "respelling": "KEE",
+    "tts": "kee",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "misleading"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "KWAY",
+        "tts": "kway"
+      },
+      {
+        "text": "KAY",
+        "tts": "kay"
+      },
+      {
+        "text": "KWY",
+        "tts": "kwy"
+      }
+    ]
+  },
+  {
+    "id": "ghoul",
+    "word": "Ghoul",
+    "respelling": "GOOL",
+    "tts": "gool",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "misleading"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "GOWL",
+        "tts": "gowl"
+      },
+      {
+        "text": "GOHL",
+        "tts": "gohl"
+      },
+      {
+        "text": "GUHL",
+        "tts": "guhl"
+      }
+    ]
+  },
+  {
+    "id": "choir",
+    "word": "Choir",
+    "respelling": "KWY-ur",
+    "tts": "kwy ur",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "misleading"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "CHOY-er",
+        "tts": "choy er"
+      },
+      {
+        "text": "CHOH-ir",
+        "tts": "choh ir"
+      },
+      {
+        "text": "KOH-eer",
+        "tts": "koh eer"
+      }
+    ]
+  },
+  {
+    "id": "cache",
+    "word": "Cache",
+    "respelling": "CASH",
+    "tts": "cash",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "misleading"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "KAYSH",
+        "tts": "kaysh"
+      },
+      {
+        "text": "KASH-ay",
+        "tts": "kash ay"
+      },
+      {
+        "text": "kuh-SHAY",
+        "tts": "kuh shay"
+      }
+    ]
+  },
+  {
+    "id": "mischievous",
+    "word": "Mischievous",
+    "respelling": "MIS-chih-vus",
+    "tts": "mis chih vus",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "misleading"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "mis-CHEE-vee-us",
+        "tts": "mis chee vee us"
+      },
+      {
+        "text": "mis-CHEE-vus",
+        "tts": "mis chee vus"
+      },
+      {
+        "text": "MIS-chee-vee-us",
+        "tts": "mis chee vee us"
+      }
+    ]
+  },
+  {
+    "id": "pronunciation",
+    "word": "Pronunciation",
+    "respelling": "pruh-NUN-see-AY-shun",
+    "tts": "pruh nun see ay shun",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "misleading"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "pruh-NOWN-see-ay-shun",
+        "tts": "pruh nown see ay shun"
+      },
+      {
+        "text": "pro-NOUN-see-AY-shun",
+        "tts": "pro noun see ay shun"
+      },
+      {
+        "text": "pro-NOUN-sih-AY-shun",
+        "tts": "pro noun sih ay shun"
+      }
+    ]
+  },
+  {
+    "id": "awry",
+    "word": "Awry",
+    "respelling": "uh-RY",
+    "tts": "uh ry",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "misleading"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "AW-ree",
+        "tts": "aw ree"
+      },
+      {
+        "text": "AW-ry",
+        "tts": "aw ry"
+      },
+      {
+        "text": "uh-WREE",
+        "tts": "uh wree"
+      }
+    ]
+  },
+  {
+    "id": "anemone",
+    "word": "Anemone",
+    "respelling": "uh-NEM-uh-nee",
+    "tts": "uh nem uh nee",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "misleading"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "AN-uh-mohn",
+        "tts": "an uh mohn"
+      },
+      {
+        "text": "uh-NEM-ohn",
+        "tts": "uh nem ohn"
+      },
+      {
+        "text": "AN-ih-mon",
+        "tts": "an ih mon"
+      }
+    ]
+  },
+  {
+    "id": "bouquet",
+    "word": "Bouquet",
+    "respelling": "boh-KAY",
+    "tts": "boh kay",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "BOO-ket",
+        "tts": "boo ket"
+      },
+      {
+        "text": "bow-KET",
+        "tts": "bow ket"
+      },
+      {
+        "text": "BOK-it",
+        "tts": "bok it"
+      }
+    ]
+  },
+  {
+    "id": "debut",
+    "word": "Debut",
+    "respelling": "day-BYOO",
+    "tts": "day byoo",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "DEB-yoot",
+        "tts": "deb yoot"
+      },
+      {
+        "text": "dih-BUT",
+        "tts": "dih but"
+      },
+      {
+        "text": "DEE-but",
+        "tts": "dee but"
+      }
+    ]
+  },
+  {
+    "id": "espresso",
+    "word": "Espresso",
+    "respelling": "es-PRES-oh",
+    "tts": "es pres oh",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "eks-PRES-oh",
+        "tts": "eks pres oh"
+      },
+      {
+        "text": "ES-press-oh",
+        "tts": "es press oh"
+      },
+      {
+        "text": "eks-PRESS-ee-oh",
+        "tts": "eks press ee oh"
+      }
+    ]
+  },
+  {
+    "id": "croissant",
+    "word": "Croissant",
+    "respelling": "krwah-SAHN",
+    "tts": "krwah sahn",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "KROY-sant",
+        "tts": "kroy sant"
+      },
+      {
+        "text": "KROH-sant",
+        "tts": "kroh sant"
+      },
+      {
+        "text": "kroy-SANT",
+        "tts": "kroy sant"
+      }
+    ]
+  },
+  {
+    "id": "facade",
+    "word": "Facade",
+    "respelling": "fuh-SAHD",
+    "tts": "fuh sahd",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "FAY-kayd",
+        "tts": "fay kayd"
+      },
+      {
+        "text": "fuh-KAYD",
+        "tts": "fuh kayd"
+      },
+      {
+        "text": "FAK-ahd",
+        "tts": "fak ahd"
+      }
+    ]
+  },
+  {
+    "id": "genre",
+    "word": "Genre",
+    "respelling": "ZHAHN-ruh",
+    "tts": "zhahn ruh",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "JEN-ree",
+        "tts": "jen ree"
+      },
+      {
+        "text": "JEN-er",
+        "tts": "jen er"
+      },
+      {
+        "text": "ZHEN-ray",
+        "tts": "zhen ray"
+      }
+    ]
+  },
+  {
+    "id": "faux-pas",
+    "word": "Faux pas",
+    "respelling": "foh-PAH",
+    "tts": "foh pah",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "FAWKS-pass",
+        "tts": "fawks pass"
+      },
+      {
+        "text": "foh-PAS",
+        "tts": "foh pas"
+      },
+      {
+        "text": "FOX-pah",
+        "tts": "fox pah"
+      }
+    ]
+  },
+  {
+    "id": "sioux",
+    "word": "Sioux",
+    "respelling": "SOO",
+    "tts": "soo",
+    "difficulty": 1,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "name"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "SEE-ox",
+        "tts": "see ox"
+      },
+      {
+        "text": "SY-oks",
+        "tts": "sy oks"
+      },
+      {
+        "text": "SEE-yoo",
+        "tts": "see yoo"
+      }
+    ]
+  },
+  {
+    "id": "lieutenant",
+    "word": "Lieutenant",
+    "respelling": "loo-TEN-ant",
+    "tts": "loo ten ant",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "LEE-ten-ant",
+        "tts": "lee ten ant"
+      },
+      {
+        "text": "LYOOT-en-ant",
+        "tts": "lyoot en ant"
+      },
+      {
+        "text": "lee-oo-TEN-ant",
+        "tts": "lee oo ten ant"
+      }
+    ]
+  },
+  {
+    "id": "segue",
+    "word": "Segue",
+    "respelling": "SEG-way",
+    "tts": "seg way",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "SEEG",
+        "tts": "seeg"
+      },
+      {
+        "text": "seg-YOO",
+        "tts": "seg yoo"
+      },
+      {
+        "text": "SEGG-yoo",
+        "tts": "segg yoo"
+      }
+    ]
+  },
+  {
+    "id": "hors-d-oeuvre",
+    "word": "Hors d'oeuvre",
+    "respelling": "or-DURV",
+    "tts": "or durv",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "horz-DOO-vruh",
+        "tts": "horz doo vruh"
+      },
+      {
+        "text": "hors-DOV-er",
+        "tts": "hors dov er"
+      },
+      {
+        "text": "or-DOO-vur",
+        "tts": "or doo vur"
+      }
+    ]
+  },
+  {
+    "id": "chauffeur",
+    "word": "Chauffeur",
+    "respelling": "SHOH-fur",
+    "tts": "shoh fur",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "CHOH-fur",
+        "tts": "choh fur"
+      },
+      {
+        "text": "CHAW-fer",
+        "tts": "chaw fer"
+      },
+      {
+        "text": "SHAW-fyoor",
+        "tts": "shaw fyoor"
+      }
+    ]
+  },
+  {
+    "id": "bruschetta",
+    "word": "Bruschetta",
+    "respelling": "broo-SKET-uh",
+    "tts": "broo sket uh",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "broo-SHET-uh",
+        "tts": "broo shet uh"
+      },
+      {
+        "text": "BRUSH-et-uh",
+        "tts": "brush et uh"
+      },
+      {
+        "text": "brus-CHET-uh",
+        "tts": "brus chet uh"
+      }
+    ]
+  },
+  {
+    "id": "hyperbole",
+    "word": "Hyperbole",
+    "respelling": "hy-PUR-buh-lee",
+    "tts": "hy pur buh lee",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "HY-per-bohl",
+        "tts": "hy per bohl"
+      },
+      {
+        "text": "hy-per-BOLE",
+        "tts": "hy per bole"
+      },
+      {
+        "text": "HY-per-boh-lee",
+        "tts": "hy per boh lee"
+      }
+    ]
+  },
+  {
+    "id": "epitome",
+    "word": "Epitome",
+    "respelling": "ih-PIT-uh-mee",
+    "tts": "ih pit uh mee",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "EP-ih-tohm",
+        "tts": "ep ih tohm"
+      },
+      {
+        "text": "ep-ih-TOHM",
+        "tts": "ep ih tohm"
+      },
+      {
+        "text": "EP-ih-tome-ee",
+        "tts": "ep ih tome ee"
+      }
+    ]
+  },
+  {
+    "id": "lingerie",
+    "word": "Lingerie",
+    "respelling": "lahn-zhuh-RAY",
+    "tts": "lahn zhuh ray",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "LIN-jer-ee",
+        "tts": "lin jer ee"
+      },
+      {
+        "text": "LING-uh-ree",
+        "tts": "ling uh ree"
+      },
+      {
+        "text": "lin-JEER-ee",
+        "tts": "lin jeer ee"
+      }
+    ]
+  },
+  {
+    "id": "entrepreneur",
+    "word": "Entrepreneur",
+    "respelling": "ahn-truh-pruh-NUR",
+    "tts": "ahn truh pruh nur",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "en-tree-pree-NOOR",
+        "tts": "en tree pree noor"
+      },
+      {
+        "text": "EN-truh-pren-yoor",
+        "tts": "en truh pren yoor"
+      },
+      {
+        "text": "en-TREP-uh-noor",
+        "tts": "en trep uh noor"
+      }
+    ]
+  },
+  {
+    "id": "rapport",
+    "word": "Rapport",
+    "respelling": "ruh-POR",
+    "tts": "ruh por",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "ruh-PORT",
+        "tts": "ruh port"
+      },
+      {
+        "text": "RAP-ort",
+        "tts": "rap ort"
+      },
+      {
+        "text": "RAP-por",
+        "tts": "rap por"
+      }
+    ]
+  },
+  {
+    "id": "charcuterie",
+    "word": "Charcuterie",
+    "respelling": "shar-KOO-tuh-ree",
+    "tts": "shar koo tuh ree",
+    "difficulty": 2,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "char-kyoo-TEER-ee",
+        "tts": "char kyoo teer ee"
+      },
+      {
+        "text": "CHAR-koo-ter-ee",
+        "tts": "char koo ter ee"
+      },
+      {
+        "text": "shar-koo-TEER-ee",
+        "tts": "shar koo teer ee"
+      }
+    ]
+  },
+  {
+    "id": "synecdoche",
+    "word": "Synecdoche",
+    "respelling": "sih-NEK-duh-kee",
+    "tts": "sih nek duh kee",
+    "difficulty": 3,
+    "modes": [
+      "sound",
+      "trap"
+    ],
+    "tags": [
+      "loanword"
+    ],
+    "hint": "",
+    "addedOn": "2026-01-01",
+    "wrong": [
+      {
+        "text": "SIN-ek-dohk",
+        "tts": "sin ek dohk"
+      },
+      {
+        "text": "sin-ek-DOH-kee",
+        "tts": "sin ek doh kee"
+      },
+      {
+        "text": "SIN-ek-doh-chee",
+        "tts": "sin ek doh chee"
+      }
+    ]
+  },
+  {
+    "id": "knuckle",
+    "word": "knuckle",
+    "respelling": "NUK-ul",
+    "tts": "nuk ul",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "knead",
+    "word": "knead",
+    "respelling": "NEED",
+    "tts": "need",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "knack",
+    "word": "knack",
+    "respelling": "NAK",
+    "tts": "nak",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "knell",
+    "word": "knell",
+    "respelling": "NEL",
+    "tts": "nel",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "gnash",
+    "word": "gnash",
+    "respelling": "NASH",
+    "tts": "nash",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "gnarl",
+    "word": "gnarl",
+    "respelling": "NARL",
+    "tts": "narl",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "design",
+    "word": "design",
+    "respelling": "dih-ZYN",
+    "tts": "dih zyn",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 4,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "campaign",
+    "word": "campaign",
+    "respelling": "kam-PAYN",
+    "tts": "kam payn",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 6,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "reign",
+    "word": "reign",
+    "respelling": "RAYN",
+    "tts": "rayn",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "align",
+    "word": "align",
+    "respelling": "uh-LYN",
+    "tts": "uh lyn",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "assign",
+    "word": "assign",
+    "respelling": "uh-SYN",
+    "tts": "uh syn",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 4,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "wrist",
+    "word": "wrist",
+    "respelling": "RIST",
+    "tts": "rist",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "wrench",
+    "word": "wrench",
+    "respelling": "RENCH",
+    "tts": "rench",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "wrinkle",
+    "word": "wrinkle",
+    "respelling": "RING-kul",
+    "tts": "ring kul",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "answer",
+    "word": "answer",
+    "respelling": "AN-ser",
+    "tts": "an ser",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "thumb",
+    "word": "thumb",
+    "respelling": "THUM",
+    "tts": "thum",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 4,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "climb",
+    "word": "climb",
+    "respelling": "KLYM",
+    "tts": "klym",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 4,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "plumber",
+    "word": "plumber",
+    "respelling": "PLUM-er",
+    "tts": "plum er",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 4,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "crumb",
+    "word": "crumb",
+    "respelling": "KRUM",
+    "tts": "krum",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 4,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "tomb",
+    "word": "tomb",
+    "respelling": "TOOM",
+    "tts": "toom",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "calm",
+    "word": "calm",
+    "respelling": "KAHM",
+    "tts": "kahm",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "palm",
+    "word": "palm",
+    "respelling": "PAHM",
+    "tts": "pahm",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "chalk",
+    "word": "chalk",
+    "respelling": "CHAWK",
+    "tts": "chawk",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "folk",
+    "word": "folk",
+    "respelling": "FOHK",
+    "tts": "fohk",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "yolk",
+    "word": "yolk",
+    "respelling": "YOHK",
+    "tts": "yohk",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "would",
+    "word": "would",
+    "respelling": "WUD",
+    "tts": "wud",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "should",
+    "word": "should",
+    "respelling": "SHUD",
+    "tts": "shud",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 4,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "listen",
+    "word": "listen",
+    "respelling": "LIS-un",
+    "tts": "lis un",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "fasten",
+    "word": "fasten",
+    "respelling": "FAS-un",
+    "tts": "fas un",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "soften",
+    "word": "soften",
+    "respelling": "SOF-un",
+    "tts": "sof un",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "christmas",
+    "word": "Christmas",
+    "respelling": "KRIS-mus",
+    "tts": "kris mus",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 5,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "mortgage",
+    "word": "mortgage",
+    "respelling": "MOR-gij",
+    "tts": "mor gij",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "ballet",
+    "word": "ballet",
+    "respelling": "bal-AY",
+    "tts": "bal ay",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 5,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "gourmet",
+    "word": "gourmet",
+    "respelling": "goor-MAY",
+    "tts": "goor may",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 6,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "chalet",
+    "word": "chalet",
+    "respelling": "sha-LAY",
+    "tts": "sha lay",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 5,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "wednesday",
+    "word": "Wednesday",
+    "respelling": "WENZ-day",
+    "tts": "wenz day",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "handkerchief",
+    "word": "handkerchief",
+    "respelling": "HANG-ker-chif",
+    "tts": "hang ker chif",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "handsome",
+    "word": "handsome",
+    "respelling": "HAN-sum",
+    "tts": "han sum",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "column",
+    "word": "column",
+    "respelling": "KOL-um",
+    "tts": "kol um",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 5,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "condemn",
+    "word": "condemn",
+    "respelling": "kun-DEM",
+    "tts": "kun dem",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 6,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "hymn",
+    "word": "hymn",
+    "respelling": "HIM",
+    "tts": "him",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "solemn",
+    "word": "solemn",
+    "respelling": "SOL-um",
+    "tts": "sol um",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 5,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "guess",
+    "word": "guess",
+    "respelling": "GES",
+    "tts": "ges",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 1,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "guard",
+    "word": "guard",
+    "respelling": "GARD",
+    "tts": "gard",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 1,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "debris",
+    "word": "debris",
+    "respelling": "duh-BREE",
+    "tts": "duh bree",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 5,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "viscount",
+    "word": "viscount",
+    "respelling": "VY-kount",
+    "tts": "vy kount",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "illinois",
+    "word": "Illinois",
+    "respelling": "il-uh-NOY",
+    "tts": "il uh noy",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 7,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "hour",
+    "word": "hour",
+    "respelling": "OWR",
+    "tts": "owr",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "honest",
+    "word": "honest",
+    "respelling": "ON-ist",
+    "tts": "on ist",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "heir",
+    "word": "heir",
+    "respelling": "AIR",
+    "tts": "air",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "exhaust",
+    "word": "exhaust",
+    "respelling": "ig-ZAWST",
+    "tts": "ig zawst",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "ghost",
+    "word": "ghost",
+    "respelling": "GOHST",
+    "tts": "gohst",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 1,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "amherst",
+    "word": "Amherst",
+    "respelling": "AM-erst",
+    "tts": "am erst",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "pneumonia",
+    "word": "pneumonia",
+    "respelling": "noo-MOH-nyuh",
+    "tts": "noo moh nyuh",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "psychology",
+    "word": "psychology",
+    "respelling": "sy-KOL-uh-jee",
+    "tts": "sy kol uh jee",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "pterodactyl",
+    "word": "pterodactyl",
+    "respelling": "TAIR-uh-DAK-til",
+    "tts": "tair uh dak til",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "raspberry",
+    "word": "raspberry",
+    "respelling": "RAZ-ber-ee",
+    "tts": "raz ber ee",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "cupboard",
+    "word": "cupboard",
+    "respelling": "KUB-erd",
+    "tts": "kub erd",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 2,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "coup",
+    "word": "coup",
+    "respelling": "KOO",
+    "tts": "koo",
+    "difficulty": 1,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "pseudonym",
+    "word": "pseudonym",
+    "respelling": "SOO-duh-nim",
+    "tts": "soo duh nim",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 0,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "faux",
+    "word": "faux",
+    "respelling": "FOH",
+    "tts": "foh",
+    "difficulty": 2,
+    "modes": [
+      "impostor"
+    ],
+    "tags": [
+      "silent-letter"
+    ],
+    "silentIndex": 3,
+    "hint": "Say it aloud, slowly. Which letter do you never use?",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "general",
+    "word": "general",
+    "respelling": "JEN-rul",
+    "tts": "jen rul",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "gen",
+        "e",
+        "ral"
+      ],
+      "droppedIndex": 1,
+      "spoken": "JEN-rul"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "several",
+    "word": "several",
+    "respelling": "SEV-rul",
+    "tts": "sev rul",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "sev",
+        "e",
+        "ral"
+      ],
+      "droppedIndex": 1,
+      "spoken": "SEV-rul"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "different",
+    "word": "different",
+    "respelling": "DIF-rent",
+    "tts": "dif rent",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "diff",
+        "e",
+        "rent"
+      ],
+      "droppedIndex": 1,
+      "spoken": "DIF-rent"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "interest",
+    "word": "interest",
+    "respelling": "IN-trist",
+    "tts": "in trist",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "int",
+        "e",
+        "rest"
+      ],
+      "droppedIndex": 1,
+      "spoken": "IN-trist"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "interesting",
+    "word": "interesting",
+    "respelling": "IN-tres-ting",
+    "tts": "in tres ting",
+    "difficulty": 2,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "int",
+        "e",
+        "rest",
+        "ing"
+      ],
+      "droppedIndex": 1,
+      "spoken": "IN-tres-ting"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "favorite",
+    "word": "favorite",
+    "respelling": "FAYV-rit",
+    "tts": "fayv rit",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "fav",
+        "o",
+        "rite"
+      ],
+      "droppedIndex": 1,
+      "spoken": "FAYV-rit"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "average",
+    "word": "average",
+    "respelling": "AV-rij",
+    "tts": "av rij",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "av",
+        "e",
+        "rage"
+      ],
+      "droppedIndex": 1,
+      "spoken": "AV-rij"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "evening",
+    "word": "evening",
+    "respelling": "EEV-ning",
+    "tts": "eev ning",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "ev",
+        "e",
+        "ning"
+      ],
+      "droppedIndex": 1,
+      "spoken": "EEV-ning"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "separate",
+    "word": "separate",
+    "respelling": "SEP-rit",
+    "tts": "sep rit",
+    "difficulty": 2,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "sep",
+        "a",
+        "rate"
+      ],
+      "droppedIndex": 1,
+      "spoken": "SEP-rit"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "boundary",
+    "word": "boundary",
+    "respelling": "BOWN-dree",
+    "tts": "bown dree",
+    "difficulty": 2,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "bound",
+        "a",
+        "ry"
+      ],
+      "droppedIndex": 1,
+      "spoken": "BOWN-dree"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "factory",
+    "word": "factory",
+    "respelling": "FAK-tree",
+    "tts": "fak tree",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "fact",
+        "o",
+        "ry"
+      ],
+      "droppedIndex": 1,
+      "spoken": "FAK-tree"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "natural",
+    "word": "natural",
+    "respelling": "NACH-rul",
+    "tts": "nach rul",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "nat",
+        "u",
+        "ral"
+      ],
+      "droppedIndex": 1,
+      "spoken": "NACH-rul"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "aspirin",
+    "word": "aspirin",
+    "respelling": "AS-prin",
+    "tts": "as prin",
+    "difficulty": 2,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "asp",
+        "i",
+        "rin"
+      ],
+      "droppedIndex": 1,
+      "spoken": "AS-prin"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "cabinet",
+    "word": "cabinet",
+    "respelling": "KAB-nit",
+    "tts": "kab nit",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "cab",
+        "i",
+        "net"
+      ],
+      "droppedIndex": 1,
+      "spoken": "KAB-nit"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "savory",
+    "word": "savory",
+    "respelling": "SAY-vree",
+    "tts": "say vree",
+    "difficulty": 2,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "sav",
+        "o",
+        "ry"
+      ],
+      "droppedIndex": 1,
+      "spoken": "SAY-vree"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "grocery",
+    "word": "grocery",
+    "respelling": "GROH-sree",
+    "tts": "groh sree",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "groc",
+        "e",
+        "ry"
+      ],
+      "droppedIndex": 1,
+      "spoken": "GROH-sree"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "basically",
+    "word": "basically",
+    "respelling": "BAY-sik-lee",
+    "tts": "bay sik lee",
+    "difficulty": 2,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "bas",
+        "i",
+        "cal",
+        "ly"
+      ],
+      "droppedIndex": 1,
+      "spoken": "BAY-sik-lee"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  },
+  {
+    "id": "omelet",
+    "word": "omelet",
+    "respelling": "OM-lit",
+    "tts": "om lit",
+    "difficulty": 1,
+    "modes": [
+      "chopper"
+    ],
+    "tags": [
+      "dropped-syllable"
+    ],
+    "chunks": {
+      "parts": [
+        "om",
+        "e",
+        "let"
+      ],
+      "droppedIndex": 1,
+      "spoken": "OM-lit"
+    },
+    "hint": "Clap the syllables you actually say.",
+    "addedOn": "2026-01-01"
+  }
+]

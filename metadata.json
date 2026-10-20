@@ -1,0 +1,8 @@
+{
+  "name": "Etymon — The Editorial Word Game of Orthographic Oddities",
+  "description": "Puzzles about English words that don't sound the way they look. Play the Daily Mix and sharpen your ear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

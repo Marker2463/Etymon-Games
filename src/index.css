@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-page: #FDF8EC;
+    --color-card: #FFFFFF;
+    --color-inset: #F4EEE1;
+    --color-inset-hover: #EBE3D2;
+    --color-border: #E2D8C3;
+    --color-border-strong: #CFC3AA;
+    --color-ink: #1F1B16;
+    --color-muted: #5E564A;
+    --color-muted-2: #6F6659;
+    --color-label-gold: #6B5A12;
+    --color-success: #2E6B3F;
+    --color-success-bg: #DDF5E0;
+    --color-error: #A63A2B;
+    --color-error-bg: #F9E0DB;
+    --color-gold: #F2D46B;
+    --color-mint: #A9DDB0;
+    --color-sky: #B7D4EE;
+    --color-rose: #F2B8AE;
+  }
+
+  body {
+    background-color: var(--color-page);
+    color: var(--color-ink);
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Accessible focus rings: 3px ink outline, 2px offset, on :focus-visible only */
+  :focus-visible {
+    outline: 3px solid var(--color-ink) !important;
+    outline-offset: 2px !important;
+  }
+
+  :focus:not(:focus-visible) {
+    outline: none !important;
+  }
+}
+
+/* Custom Typography Utilities */
+.font-display {
+  font-family: 'Fraunces', Georgia, serif;
+  font-optical-sizing: auto;
+}
+
+.font-body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.font-mono-respell {
+  font-family: 'DM Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+/* Fluid type utility classes */
+.text-h1 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 700;
+  font-size: clamp(1.75rem, 1.3rem + 2vw, 2.75rem);
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+
+.text-word-display {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 600;
+  font-size: clamp(2.5rem, 1.6rem + 4vw, 4rem);
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+}
+
+.text-h2 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 1.25;
+}
+
+.text-respelling {
+  font-family: 'DM Mono', monospace;
+  font-weight: 500;
+  font-size: clamp(1.125rem, 1rem + 0.5vw, 1.375rem);
+  line-height: 1.3;
+}
+
+.text-label-mono {
+  font-family: 'DM Mono', monospace;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* Shadow rule: 0 1px 2px rgba(31,27,22,.06) only */
+.shadow-etymon {
+  box-shadow: 0 1px 2px rgba(31, 27, 22, 0.06);
+}
+
+/* Responsive touch target guarantee */
+.min-touch-target {
+  min-height: 48px;
+  min-width: 48px;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

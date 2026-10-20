@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /qa/audio
+
+Sitemap: https://etymon.app/sitemap.xml
